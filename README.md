@@ -37,6 +37,15 @@ This repository contains 2 files:
 
 Additionally, there is a CSV file containing the dataset.
 
+## Evaluation
+
+The following metrics were used to evaluate the model performance:
+
+- **Accuracy**: **_91.10%_**
+- **Recall**: **_88.609%_**
+- **Precision**: **_88.479%_**
+- **F1 Score**: **_88.518%_**
+
 ## What I Learned
 
 Through this project, I learned that in tabular and structured data, machine learning methods like ensemble models could easily outperform neural networks and deep learning approaches. After testing XGBoost, GradientBoostClassifier, SVMs, and initially neural networks, it became evident that ensemble methods, specifically the Random Forest Classifier, performed the best in this specific use case.
