@@ -22,10 +22,11 @@ The model predicts one of the three classes:
 
 ## Dataset
 
-The information gathered is from DAEWOO Steel Co. Ltd in Gwangyang, South Korea. It produces several types of coils, steel plates, and iron plates. The dataset contains information on electricity consumption, which is held in a cloud-based system.
+The information in this dataset was gathered from DAEWOO Steel Co. Ltd in Gwangyang, South Korea. It produces several types of coils, steel plates, and iron plates. The dataset contains information on electricity consumption, which is held in a cloud-based system.
 
 The energy consumption data of the industry is sourced from the website of the Korea Electric Power Corporation (pccs.kepco.go.kr). Perspectives on daily, monthly, and annual data are calculated and shown.
 
+**Link**-https://www.kaggle.com/datasets/nimapourmoradi/steel-dataset/data
 
 ## Usage
 
